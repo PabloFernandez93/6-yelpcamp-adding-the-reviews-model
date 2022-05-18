@@ -1,0 +1,12 @@
+
+- Defining The Review Model
+- Connecting the review with a campground (one to many relationship)
+-  Adding The Review Form
+- Creating Reviews
+- Validating Reviews with Bootstrap Validation
+- Adding Server-side validation with Joi
+- Adding the middleware 'validateReview'
+- Displaying reviews
+- Styling Reviews with Bootstrap cards
+- Deleting Reviews
+- Campground Delete Middleware
